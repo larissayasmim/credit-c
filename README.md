@@ -33,7 +33,7 @@
 <br>
 
 ## :credit_card: &nbsp; Execution
-<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665709362/Mario/20221013_182743_1_online-video-cutter.com_1_f2ypor.gif"/>
+<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665763818/CREDIT/creditvideo_online-video-cutter.com_y5ecvi.gif"/>
 <br>
 
 ## :credit_card:  &nbsp; Technologies
