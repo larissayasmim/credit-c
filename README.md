@@ -36,7 +36,7 @@
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665763818/CREDIT/creditvideo_online-video-cutter.com_y5ecvi.gif"/>
 <br>
 
-## :credit_card:  &nbsp; Technologies
+## :computer:  &nbsp; Technologies
 This project was developed with the following technologies:
 
 - C
