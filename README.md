@@ -24,15 +24,15 @@
 - informs if it is a valid American Express, MasterCard or Visa card number
 <br>
 
-## :credit_card: &nbsp; Enter a positive integer between 1 and 8, inclusive
-<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665706963/Mario/mario1c_rvnapo.png"/>
+## :credit_card: &nbsp; Valid entry
+<img align="center" height="auto" width="450" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665762880/CREDIT/credit1_gb8zoc.png"/>
 <br>
 
 ## :credit_card: &nbsp; Enter invalid number
-<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665707642/Mario/mario2c_vyfer1.png"/>
+<img align="center" height="auto" width="450" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665762884/CREDIT/credit2_v5m1ox.png"/>
 <br>
 
-## :credit_card: &nbsp; Enter invalid number
+## :credit_card: &nbsp; Execution
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665709362/Mario/20221013_182743_1_online-video-cutter.com_1_f2ypor.gif"/>
 <br>
 
