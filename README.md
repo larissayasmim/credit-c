@@ -28,7 +28,7 @@
 <img align="center" height="auto" width="450" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665762880/CREDIT/credit1_gb8zoc.png"/>
 <br>
 
-## :credit_card: &nbsp; Enter invalid number
+## :credit_card: &nbsp; Invalid input
 <img align="center" height="auto" width="450" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665762884/CREDIT/credit2_v5m1ox.png"/>
 <br>
 
