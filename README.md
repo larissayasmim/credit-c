@@ -1,7 +1,7 @@
 
 <p align="center">
 <br>
-  <img  width="300px" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665761963/CREDIT/ocr-a-becker__1_-removebg-preview_vg0jsk.png"/>
+  <img  width="300px" alt="Credit Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665761963/CREDIT/ocr-a-becker__1_-removebg-preview_vg0jsk.png"/>
 </p>
 <br>
   <h2 align="center">
